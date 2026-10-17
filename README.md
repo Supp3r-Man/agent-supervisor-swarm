@@ -1,6 +1,6 @@
 # agent-supervisor-swarm
 
-![ci](https://github.com/Sup3rMar10/agent-supervisor-swarm/actions/workflows/ci.yml/badge.svg)
+![ci](https://github.com/Supp3r-Man/agent-supervisor-swarm/actions/workflows/ci.yml/badge.svg)
 
 A **supervisor** that runs a multi-agent plan: specialist workers, a validated task graph, parallel execution, typed handoffs, a shared budget, loop detection, an explicit failure policy and dynamic fan-out. The idea is that everything a model must not be trusted with lives in ordinary, tested code around it.
 
